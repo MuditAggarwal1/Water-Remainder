@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.appcompat:appcompat:1.1.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/ace1ffe2077ddb3ea0449883f62f2814/appcompat-1.1.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/ace1ffe2077ddb3ea0449883f62f2814/appcompat-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/ace1ffe2077ddb3ea0449883f62f2814/appcompat-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/ace1ffe2077ddb3ea0449883f62f2814/appcompat-1.1.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Medicine-Time-Android-App-Project-master/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.1.0/9865019bbd2d95e41dede3d8ebf964aa93f97766/appcompat-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

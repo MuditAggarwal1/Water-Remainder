@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":app:androidTest" external.linked.project.path="$MODULE_DIR$/../../../app" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/androidTest/res;file://$MODULE_DIR$/../../../app/src/androidTestDebug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../app/build/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false">
+        <additionalVisibleModuleNames>:app:main</additionalVisibleModuleNames>
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <flagArguments>
+            <flagArg name="noReflect" arg="true" />
+            <flagArg name="noStdlib" arg="true" />
+          </flagArguments>
+          <stringArguments>
+            <stringArg name="classpath">
+              <args>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/bf3f8393edc6f3976f4794b10f4ad50b/espresso-core-3.2.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/672cf85da350c7fe886fb8aa3cb70905/runner-1.2.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/6aeb158ef6a36ce3e5e436e77bf982dc/material-1.1.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/8078342dc2c35afce5093d9a2f7f744a/jetified-library-0.3.5-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/8c09586279b1b785812c3ca4745286ea/appcompat-1.1.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/13b04e60800556363aec1386d10ac46c/jetified-core-ktx-1.2.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/f0d63ef900600437ae381bfc75b53f38/cardview-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/551f15b69b8eafe3ada695cbee197b69/monitor-1.2.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/ebf6476ad6f0042e7b941a6bf3bb68f8/cursoradapter-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/1681ac2c039604be2556eec39c59a740/jetified-viewpager2-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/c9da6f73ce227ce0f56968aba5b41a68/fragment-1.1.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/102eabdc5c069c05d19e22089031d8b5/jetified-appcompat-resources-1.1.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/f8e3d5cb7838385b5ccfb83eac9c11cd/drawerlayout-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/c82415fa72d47aef8d7cd8f594a9b3dc/coordinatorlayout-1.1.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/3245490b96a53fd82bbfbfbd65e479f6/transition-1.2.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/08cb50c5ab397024a7fc21f3c8ab0139/vectordrawable-animated-1.1.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/bec6bf75b890b4597ca45f3b58b60f04/vectordrawable-1.1.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/f074c2a0bb37fcbeecad620533a75fef/viewpager-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/15ebb3bddc551aa0c0d6c24e248cd59b/loader-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/84d3be3241a17c018f335d8e0b2f4329/jetified-activity-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/4f00f62ce84d1a71519f6cf38659369f/recyclerview-1.1.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/91775436423ac8c2440c83688d4f608e/customview-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/0c41e393c75a0b780ebb849d8b0036fb/core-1.2.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/1ad5634ed9f56c4b2c2906b5fa3e36db/versionedparcelable-1.1.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/fddb646d4a22d4cc818fdc6b4fd10e1a/lifecycle-runtime-2.1.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/5e2c8a132c3f6ea4695935e4f54e5ae5/lifecycle-viewmodel-2.1.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/6e39906dcc651294a7053100d23968c5/jetified-savedstate-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/3ff64edde2f268f565af2c47ad021aef/interpolator-1.0.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/8d01adbba211430ec21373eb4e2230f9/lifecycle-livedata-2.0.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/01ccde10579b6ed179d8c6a74f0001fe/lifecycle-livedata-core-2.0.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/c3c88d9d65f55911c941751f2df45930/core-runtime-2.0.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.1.0/c67e7807d9cd6c329b9d0218b2ec4e505dd340b7/lifecycle-common-2.1.0.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/modules-2/files-2.1/androidx.annotation/annotation/1.1.0/e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8/annotation-1.1.0.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/ff67dc01798bf8d29828813c2404b77e/jetified-junit-4.12.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/1eaebefdd083e997e60444516badac53/jetified-hamcrest-integration-1.3.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/e3f80dd26a477b322cc9b31acfed2338/jetified-hamcrest-library-1.3.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/789df0b7d0763b0dfdc020c41fa8469e/jetified-hamcrest-core-1.3.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/a02c92a98a45021ecdaf339a79e1ce9e/jetified-kxml2-2.3.0.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/c76a8522589ab8819b7b292e6b2665d6/espresso-idling-resource-3.2.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/ade4f98bc39ae381bc58e5e2437059f3/jetified-javawriter-2.1.1.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/3a44f0bfa6c17b590e6699f9b9dc313d/jetified-javax.inject-1.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/79ab5c36daaa94041caf1bb49da0c42a/jetified-jsr305-2.0.1.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/80e88cf5f0eb116c4d86cfdfb7ea782f/jetified-kotlin-android-extensions-runtime-1.3.71.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/c0f932174f72cd3fa7d858323bac5aaf/jetified-kotlin-stdlib-jdk7-1.3.71.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/4c9d47eccda53c9812ed513c31e2282e/constraintlayout-1.1.3-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/3abdc75bf5caf757f954d96969d28971/jetified-RadioRealButton-v2.1.2-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/a1b2c3064d1de38523c037989865ceb9/jetified-MPAndroidChart-v3.1.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/9bfe624ac2ef815c39b90b64a437198a/jetified-step-progress-1.0.2-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/c68080698e41232f05e10da3260daa96/jetified-library-2.0-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/64b742973a58980f6278680fbd76b833/jetified-library-2.3-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/911c861a164f2448a0d6b68112227eed/jetified-viewpagerdotsindicator-2.1.2-api.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/6239ebde0b4063cc26ec7bcf8fbfdc2e/jetified-kotlin-stdlib-1.3.71.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/modules-2/files-2.1/androidx.constraintlayout/constraintlayout-solver/1.1.3/54abe9ffb22cc9019b0b6fcc10f185cc4e67b34e/constraintlayout-solver-1.1.3.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/a11b5bed661286fc663b7295f68c5c63/jetified-kotlin-stdlib-common-1.3.71.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/bee93cf671cf7da0330d8fe5b0058b47/jetified-annotations-13.0.jar</arg>
+                <arg>$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-30/android.jar</arg>
+                <arg>$USER_HOME$/AppData/Local/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar</arg>
+              </args>
+            </stringArg>
+            <stringArg name="destination" arg="$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debugAndroidTest" />
+            <stringArg name="jvmTarget" arg="1.6" />
+            <stringArg name="moduleName" arg="app_debug" />
+            <stringArg name="apiVersion" arg="1.3" />
+            <stringArg name="languageVersion" arg="1.3" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="friendPaths">
+              <args>
+                <arg>$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debug</arg>
+                <arg>$MODULE_DIR$/../../../app/build/intermediates/javac/debug/classes</arg>
+                <arg>$MODULE_DIR$/../../../app/build/intermediates/app_classes/debug/classes.jar</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginClasspaths">
+              <args>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/modules-2/files-2.1/org.jetbrains.intellij.deps/trove4j/1.0.20181211/216c2e14b070f334479d800987affe4054cd563f/trove4j-1.0.20181211.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.3.71/ea43e0e563e1915ea845a482fd6f31a948386ab9/kotlin-android-extensions-1.3.71.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.3.71/df961ae412445788a38170e27f90bad4e0824153/kotlin-compiler-embeddable-1.3.71.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-embeddable/1.3.71/9729c4da2369c4cb84514297f6c652e05dc49d6b/kotlin-daemon-embeddable-1.3.71.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.71/fca74670d8e6906a3241b3cf3732409ca77b2508/kotlin-reflect-1.3.71.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.3.71/7f5522e7a9d1736fabfdb4335630f64504ce8f20/kotlin-script-runtime-1.3.71.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.71/e71c3fef58e26affeb03d675e91fd8abdd44aa7b/kotlin-stdlib-common-1.3.71.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.71/898273189ad22779da6bed88ded39b14cb5fd432/kotlin-stdlib-1.3.71.jar</arg>
+                <arg>$USER_HOME$/Medicine-Time-Android-App-Project-master/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginOptions">
+              <args>
+                <arg>plugin:org.jetbrains.kotlin.android:experimental=false</arg>
+                <arg>plugin:org.jetbrains.kotlin.android:enabled=true</arg>
+                <arg>plugin:org.jetbrains.kotlin.android:defaultCacheImplementation=hashMap</arg>
+              </args>
+            </arrayArg>
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debugAndroidTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/aidl_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/renderscript_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/res/resValues/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/res/rs/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/source/buildConfig/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../app/src/androidTest" />
+    <content url="file://$MODULE_DIR$/../../../app/src/androidTestDebug" />
+    <orderEntry type="jdk" jdkName="Android API 30 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Water-Reminder-main.app.main" scope="TEST" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.espresso:espresso-core:3.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:runner:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.material:material:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: me.itangqi.waveloadingview:library:0.3.5@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.appcompat:appcompat:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core-ktx:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.cardview:cardview:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:monitor:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.fragment:fragment:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.appcompat:appcompat-resources:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.transition:transition:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.activity:activity:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.recyclerview:recyclerview:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.espresso:espresso-idling-resource:3.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.constraintlayout:constraintlayout:1.1.3@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.github.patgdut:RadioRealButton:v2.1.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.github.PhilJay:MPAndroidChart:v3.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.params.progressview:step-progress:1.0.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.daimajia.easing:library:2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.daimajia.androidanimations:library:2.3@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.tbuonomo.andrui:viewpagerdotsindicator:2.1.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common:2.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-integration:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-library:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: net.sf.kxml:kxml2:2.3.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup:javawriter:2.1.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.code.findbugs:jsr305:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-android-extensions-runtime:1.3.71" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.71" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.71" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.constraintlayout:constraintlayout-solver:1.1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.71" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="Water-Reminder-main.app.main" />
+</module>

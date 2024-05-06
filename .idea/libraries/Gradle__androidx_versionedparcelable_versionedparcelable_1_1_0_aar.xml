@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/857c634ec432216d113a57cc3aadcee6/versionedparcelable-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/857c634ec432216d113a57cc3aadcee6/versionedparcelable-1.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Medicine-Time-Android-App-Project-master/caches/modules-2/files-2.1/androidx.versionedparcelable/versionedparcelable/1.1.0/d9085927216387af679d18b6f472bc0fc5c7cc81/versionedparcelable-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

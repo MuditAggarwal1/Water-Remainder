@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.daimajia.easing:library:2.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/bb2809a3092127bf5097b0f54285468d/jetified-library-2.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Medicine-Time-Android-App-Project-master/caches/transforms-2/files-2.1/bb2809a3092127bf5097b0f54285468d/jetified-library-2.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Medicine-Time-Android-App-Project-master/caches/modules-2/files-2.1/com.daimajia.easing/library/2.0/f955748ec0b64ca3445ddbea13beb9b2ed11b93d/library-2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Medicine-Time-Android-App-Project-master/caches/modules-2/files-2.1/com.daimajia.easing/library/2.0/b79ee343a146157508009a37d7519155405708cb/library-2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
